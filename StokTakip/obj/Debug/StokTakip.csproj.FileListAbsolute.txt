@@ -1,0 +1,17 @@
+C:\Users\aksum\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\aksum\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\aksum\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csprojAssemblyReference.cache
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.frmSatis.resources
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.frmMusteriEkle.resources
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.frmMusteriListele.resources
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.frmKategori.resources
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.frmMarka.resources
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.frmUrunEkle.resources
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.frmUrunListele.resources
+C:\Users\aksum\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.frmSatisListele.resources
